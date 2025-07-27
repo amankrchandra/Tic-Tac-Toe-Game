@@ -22,7 +22,7 @@ const resetGame = () => {
    enableboxes();
    msgBox.classList.add("hide");
 };
-
+// Functions 
 boxes.forEach((box) => {
   box.addEventListener("click", () => {
     console.log("Button was clicked");
