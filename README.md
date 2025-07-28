@@ -38,4 +38,6 @@ A clean and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScrip
 
 ---
 
-
+🙌 Contributing
+Contributions are welcome!
+If you find a bug or want to add new features (like AI), feel free to open an issue or submit a PR.
