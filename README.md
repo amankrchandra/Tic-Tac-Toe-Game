@@ -16,7 +16,7 @@ A clean and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-👉 [Play the Game Now](https://amankrchandra.github.io/Tic-Tac-Toe-Game/)
+👉 [Play the Game Now](https://tic-tac-toe-game-amber-ten.vercel.app/)
 
 ---
 
