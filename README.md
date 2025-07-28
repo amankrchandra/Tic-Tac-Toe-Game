@@ -47,6 +47,6 @@ Connect with me:
 
 💼 LinkedIn : ( www.linkedin.com/in/amankrchandra )
 
-🧑‍💻 Portfolio (Coming Soon)
+✉️ Email: ( amankrchandra@proton.me )
 
-✉️ Email: amankrchandra@proton.me
+🧑‍💻 Portfolio (Coming Soon)
