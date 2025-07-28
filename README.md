@@ -30,16 +30,6 @@ A clean and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScrip
 
 ---
 
-## 🖼️ Screenshots
-
-| Start Screen | Gameplay | Win Screen |
-|-------------|----------|------------|
-| ![](https://github.com/amankrchandra/Tic-Tac-Toe-Game/blob/main/assets/start.png) | ![](https://github.com/amankrchandra/Tic-Tac-Toe-Game/blob/main/assets/playing.png) | ![](https://github.com/amankrchandra/Tic-Tac-Toe-Game/blob/main/assets/win.png) |
-
-> *Add these images to an `assets/` folder in your repo for best results.*
-
----
-
 ## 🛠️ Built With
 
 - **HTML5**
