@@ -55,10 +55,4 @@ Connect with me:
 ---
 ⭐ If you like this project, consider giving it a star!
 
-Let me know if you want:
-- A demo **GIF created from your game**
-- Help uploading assets (`start.png`, `playing.png`, `win.png`, `preview.gif`)
-- Or a **fancy dark-themed README** version too
-
-Just say the word!
 
