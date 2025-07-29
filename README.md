@@ -45,9 +45,9 @@ If you find a bug or want to add new features (like AI), feel free to open an is
 📩 Contact
 Connect with me:
 
-💼 LinkedIn : ( www.linkedin.com/in/amankrchandra )
+💼 LinkedIn : www.linkedin.com/in/amankrchandra 
 
-✉️ Email: ( amankrchandra@proton.me )
+✉️ Email: amankrchandra@proton.me 
 
 🧑‍💻 Portfolio (Coming Soon)
 
