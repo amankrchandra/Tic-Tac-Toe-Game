@@ -22,7 +22,7 @@ A clean and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScrip
 
 ## 🧩 Features
 
-- ✨ Simple and Elegant UI
+- ✨ Simple and Elegant U
 - 👨‍👩‍👧‍👦 2 Player Mode
 - 🏆 Detects WINNER or DRAW
 - 🔁 Restart button to play again
