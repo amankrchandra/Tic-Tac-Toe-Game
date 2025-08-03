@@ -20,7 +20,7 @@ A clean and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScrip
 
 ---
 
-## 🧩 Feature
+## 🧩 Features
 
 - ✨ Simple and Elegant UI
 - 👨‍👩‍👧‍👦 2 Player Mode
