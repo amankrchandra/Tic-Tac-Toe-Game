@@ -1,4 +1,4 @@
-# 🎮 Tic Ta Toe Game
+# 🎮 Tic Tac Toe Game
 
 A clean and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
 
