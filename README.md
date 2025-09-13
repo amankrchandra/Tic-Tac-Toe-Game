@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game
 
-A clean and responsi **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
+A clean and respons **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="status"/>
